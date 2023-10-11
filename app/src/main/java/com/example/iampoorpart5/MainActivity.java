@@ -4,6 +4,7 @@ Please answer the following question, then commit+push to your repos
 Is cereal soup? Yes or no.
 
 No, cereal IS NOT a soup.
+TEACHER COMMENT: Wow. So confident!
  */
 
 package com.example.iampoorpart5;
